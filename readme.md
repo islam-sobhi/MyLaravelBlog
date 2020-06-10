@@ -14,17 +14,18 @@
 ## About this project :
 
 Advantages of this project: -
-1- The Google Account or Facebook account login page.
-2- The Forgotten Password page to send the password reset link.
-3- Control Panel: It includes:
-    - Every Admin has a control panel.
-    - Control the personal page of the user.
-    - Control the display of stickers
-Control the display of posters
-    - Add and delete mail sections
-    - Add and delete tags
-4 - home Page to post posts, and users can comment using their email.
-And users  can also search for any post by tag name, post name or post category
+1)	The Google Account or Facebook account login page.
+2)	The Forgotten Password page to send the password reset link.
+3)	Control Panel: It includes:
+	Every Admin has a control panel.
+	Control the personal page of the user.
+	Control the display of stickers
+	Control the display of posters
+	 Add and delete mail sections
+	 Add and delete tags
+4)	Home Page to post posts, and users can comment using their email.
+	And users  can also search for any post by tag name, post name or post category
 
-And Many options  
+And many options
+
 Enjoy ^_^
