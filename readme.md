@@ -1,8 +1,7 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 
-<img src="https://user-images.githubusercontent.com/22322246/84317630-28fb2c80-ab7e-11ea-945c-4a7335888f5e.PNG" width="400">
-<img src="https://user-images.githubusercontent.com/22322246/84317817-7c6d7a80-ab7e-11ea-9170-a5fe3e3e0c99.PNG" width="400">
+<img src="https://user-images.githubusercontent.com/22322246/84317630-28fb2c80-ab7e-11ea-945c-4a7335888f5e.PNG" width="400"><img src="https://user-images.githubusercontent.com/22322246/84317817-7c6d7a80-ab7e-11ea-9170-a5fe3e3e0c99.PNG" width="400">
 <img src="https://user-images.githubusercontent.com/22322246/84317839-84c5b580-ab7e-11ea-9416-86909b70c9ca.PNG" width="400">
 
 <p align="center">
