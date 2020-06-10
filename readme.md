@@ -13,6 +13,7 @@
 
 ## About this project :
 
+
 **Advantages of this project: -**
 
 1. The register page.
@@ -27,6 +28,7 @@
 - 	 Add and delete Admins.
 -     control permission of admin.
 - 	 Add and delete tags
+- 	 setting web site information.
 
 5. Home Page to post posts and users can comment using their email.
 - And users can also share a post with their Facebook account.
