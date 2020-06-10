@@ -12,23 +12,27 @@
 </p>
 
 ## About this project :
+
 **Advantages of this project: -**
 
-1. The Google Account or Facebook account login page.
-2. The Forgotten Password page to send the password reset link.
-3. Control Panel: It includes:
+1. The register page.
+2. The Google Account or Facebook account login page.
+3. The Forgotten Password page to send the password reset link.
+4. Control Panel: It includes:
 
 -    Every Admin has a control panel.
-- 	Control the personal page of the user.
-- 	Control the display of stickers
-- 	Control the display of posters
-- 	 Add and delete mail sections
+- 	Control the profile page of the user.
+- 	Control the display of posts.
+- 	soft delete page for posts delete and can recover them.
+- 	 Add and delete Admins.
+-     control permission of admin.
 - 	 Add and delete tags
 
-4. Home Page to post posts and users can comment using their email.
-
+5. Home Page to post posts and users can comment using their email.
+- And users can also share a post with their Facebook account.
 - And users  can also search for any post by tag name, post name or post category
 
 **And many options**
 
 **Enjoy ^_^**
+
