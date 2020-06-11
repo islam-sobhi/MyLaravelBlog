@@ -44,5 +44,5 @@
 ### How to start
 In order to start the project use:
 
-#$ git clone https://github.com/islam-sobhi/MyLaravelBlog
-#$ cd MyLaravelBlog
+> #$ git clone https://github.com/islam-sobhi/MyLaravelBlog
+> #$ cd MyLaravelBlog
