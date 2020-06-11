@@ -12,9 +12,8 @@
 </p>
 
 ### **Language And tools**
-
-1. PHP **v.7**
-2. Laravel Framework **v.6**
+1. PHP **v.7.1**
+2. Laravel Framework **v.5.8**
 3. Javascript
 4. Jquery
 5. Ajax
@@ -24,9 +23,7 @@
 
 
 ## About this project :
-
 **Advantages of this project: -**
-
 1. The register page.
 2. The Google Account or Facebook account login page.
 3. The Forgotten Password page to send the password reset link.
