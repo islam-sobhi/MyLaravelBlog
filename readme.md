@@ -13,7 +13,7 @@
 
 ### **Language And tools**
 
-1. PHP.
+1. PHP **v.7**
 2. Laravel Framework **v.6**
 3. Javascript
 4. Jquery
@@ -21,6 +21,7 @@
 6. API
 7. HTML
 8. CSS
+
 
 ## About this project :
 
