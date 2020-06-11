@@ -1,11 +1,12 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-
-
-<img src="https://user-images.githubusercontent.com/22322246/84317630-28fb2c80-ab7e-11ea-945c-4a7335888f5e.PNG" width="400"><img src="https://user-images.githubusercontent.com/22322246/84317817-7c6d7a80-ab7e-11ea-9170-a5fe3e3e0c99.PNG" width="400">
 ### **Author**
 @islam-sobhi 
 
 **Demo**
+<img src="https://user-images.githubusercontent.com/22322246/84317630-28fb2c80-ab7e-11ea-945c-4a7335888f5e.PNG" width="400"><img src="https://user-images.githubusercontent.com/22322246/84317817-7c6d7a80-ab7e-11ea-9170-a5fe3e3e0c99.PNG" width="400">
+
+
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
@@ -39,12 +40,14 @@
 - 	 setting web site information.
 5. Home Page to post posts and users can comment using their email.
 - And users can also share a post with their Facebook account.
-- And users  can also search for any post by tag name, post name or post category
+- And users  can also search for any post by tag name, post name or post category.
 **And many options**
 **Enjoy ^_^**
 
 ### How to start
 In order to start the project use:
 
-- $ git clone https://github.com/islam-sobhi/MyLaravelBlog
-- $ cd MyLaravelBlog
+```
+$ git clone https://github.com/islam-sobhi/MyLaravelBlog
+$ cd MyLaravelBlog
+```
