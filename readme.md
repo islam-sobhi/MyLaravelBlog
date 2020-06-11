@@ -21,14 +21,12 @@
 7. HTML
 8. CSS
 
-
 ## About this project :
 **Advantages of this project: -**
 1. The register page.
 2. The Google Account or Facebook account login page.
 3. The Forgotten Password page to send the password reset link.
 4. Control Panel: It includes:
-
 -    Every Admin has a control panel.
 - 	Control the profile page of the user.
 - 	Control the display of posts.
@@ -37,12 +35,14 @@
 -     control permission of admin.
 - 	 Add and delete tags
 - 	 setting web site information.
-
 5. Home Page to post posts and users can comment using their email.
 - And users can also share a post with their Facebook account.
 - And users  can also search for any post by tag name, post name or post category
-
 **And many options**
-
 **Enjoy ^_^**
 
+### How to start
+In order to start the project use:
+
+#$ git clone https://github.com/islam-sobhi/MyLaravelBlog
+#$ cd MyLaravelBlog
