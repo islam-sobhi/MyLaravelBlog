@@ -11,8 +11,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About this project :
+### **Language And tools**
 
+1. PHP.
+2. Laravel Framework **v.6**
+3. Javascript
+4. Jquery
+5. Ajax
+6. API
+7. HTML
+8. CSS
+
+## About this project :
 
 **Advantages of this project: -**
 
