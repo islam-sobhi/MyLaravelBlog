@@ -2,7 +2,7 @@
 ### **Author**
 @islam-sobhi 
 
-**Demo**
+### **Demo**
 <img src="https://user-images.githubusercontent.com/22322246/84317630-28fb2c80-ab7e-11ea-945c-4a7335888f5e.PNG" width="400"><img src="https://user-images.githubusercontent.com/22322246/84317817-7c6d7a80-ab7e-11ea-9170-a5fe3e3e0c99.PNG" width="400">
 
 
