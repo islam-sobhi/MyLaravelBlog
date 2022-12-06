@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/islam-sobhi/MyLaravelBlog/master/public/img/laravel-logolockup-cmyk-red.png" width="400"></p>
 
 ### **Demo**
 <img src="https://user-images.githubusercontent.com/22322246/84317630-28fb2c80-ab7e-11ea-945c-4a7335888f5e.PNG" width="100%"><img src="https://user-images.githubusercontent.com/22322246/84317817-7c6d7a80-ab7e-11ea-9170-a5fe3e3e0c99.PNG" width="100%">
